@@ -1,0 +1,20 @@
+# Entorno virtual de Python
+venv/
+
+# Dependencias de React
+node_modules/
+
+# Caché y compilación de Python
+__pycache__/
+.cache/
+
+# Variables de entorno (credenciales)
+.env
+
+# Archivos compilados del frontend
+build/
+dist/
+
+# Configuraciones del editor
+.vscode/
+.idea/
