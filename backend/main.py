@@ -73,8 +73,8 @@ async def analizar_ley(request: LeyRequest):
 
     texto_ley = parse_xml_to_text(xml_texto)
 
-    # Pega tu API Key aquí
-    api_key = "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"
+    # API Key
+    api_key = "API KEY AQUI"
     try:
         respuesta = await obtener_resumen_openrouter(texto_ley, api_key)
         resumen_ia = respuesta["choices"][0]["message"]["content"]
