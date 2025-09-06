@@ -5,6 +5,7 @@
 ## Descripción del Proyecto
 
 **Analizador-BOE** es una aplicación **fullstack moderna** que permite **acceder, procesar, visualizar y descargar documentos del BOE** de manera **rápida, clara y accesible**.
+
 **Analizador-BOE** permite el análisis de documentos usando la IA integrada para su rápida y clara comprensión.
 
 El proyecto demuestra competencias críticas para roles de **desarrollo fullstack, ingeniería de datos y AI aplicada**:
